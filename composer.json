@@ -1,0 +1,13 @@
+{
+    "name": "sonager/twitch-api-guzzle",
+    "description": "Make Call to the Twitch API easyly and testable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Théo Bougé",
+            "email": "theo.bouge@gmail.com"
+        }
+    ],
+    "require": {}
+}
